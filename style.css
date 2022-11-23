@@ -1,0 +1,59 @@
+div{ 
+    opacity: 0.8;
+    background:url('https://s3.ap-south-1.amazonaws.com/www.prepbytes.com/images/homepage/Masterhead(web).svg') no-repeat center center/cover;
+    width:100vw;
+    height: 100vh;
+   background-color: rgb(232, 238, 238);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+p{
+   color: rgb(10, 5, 5);
+   font-size:30px;
+   font-family: 'Lato', sans-serif;
+   font-family: 'Xanh Mono', monospace;
+   margin:400px 100px;
+   padding: 10px;
+}
+button{
+    width: 16rem;
+    height: 3rem;
+    font-size: 36px;
+    position:absolute;
+    top: 35rem;
+    left: 25rem;
+    background-color: #7743DB;
+    color:black;
+    border-radius: 35px;
+    font-style: italic;
+}
+.navbar{
+   
+    border: 2px solid none;
+    height: 50px;
+    margin: 10px;
+padding-left: 44rem;
+background-color:white;
+    
+}
+.navbar ul li{
+  
+   float: left;
+   text-decoration: none;
+   list-style: none;
+   margin: 4px 29px;
+   color: black;
+}
+.navbar ul li:hover{
+    color: rgb(242, 224, 224);
+    overflow: auto;
+}
+.logo{
+
+ position:absolute;
+ top:-1rem;
+left: 3rem;
+display: inline;
+   
+}
